@@ -254,7 +254,7 @@ footer{
     .navbar{
         width: 100%;
         height: 20vh;
-        
+        background: transparent;
         
         /* padding: 25px; */
     }
