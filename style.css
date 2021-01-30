@@ -191,9 +191,7 @@ footer{
 .footer a:hover{
     color: #28a745;
 }
-.cases{
-    background: #f4f4f4;
-}
+
 @media(max-width:768px){
     .navbar{
         display: flex;
