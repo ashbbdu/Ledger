@@ -253,13 +253,19 @@ footer{
 @media(max-width:360px){
     .navbar{
         max-width: 360px;
-        height: 120px;
-        padding: 5px;
+        height: 140px;
+        padding: 25px;
+    }
+    .navbar ul{
+        padding: 15px;
     }
     .navbar ul li a{
-        padding: 0px;
+        margin: -10px;
     }
     .hero .content{
+        text-align: center;
+    }
+    .content h1,p{
         text-align: center;
     }
 }
